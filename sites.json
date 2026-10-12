@@ -3,10 +3,10 @@
   "repo": "sports-highlights",
   "url": "https://piyaster11.github.io/sports-highlights/",
   "title": "Piyaster Flix",
-  "th": "ไฮไลต์กีฬาและเกม",
+  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ มีม",
   "cat": "Fun",
   "emoji": "⚽",
-  "desc": "Free official sports & gaming highlights, Netflix style",
+  "desc": "Free official sports, gaming, music & Japan videos, books and memes, Netflix style",
   "thumb": "thumbs/sports-highlights.jpg",
   "pushed": "2026-10-12T21:22:47Z"
  },
@@ -42,17 +42,6 @@
   "desc": "Hong Yok Peanut online shop",
   "thumb": "thumbs/hongyok-peanut.jpg",
   "pushed": "2026-10-10T09:03:49Z"
- },
- {
-  "repo": "meme-library",
-  "url": "https://piyaster11.github.io/meme-library/",
-  "title": "Meme Library · คลังมีม",
-  "th": "คลังมีม",
-  "cat": "Fun",
-  "emoji": "😂",
-  "desc": "Searchable meme library with reply memes",
-  "thumb": "thumbs/meme-library.jpg",
-  "pushed": "2026-10-10T03:29:21Z"
  },
  {
   "repo": "th-nursing-homes-map",

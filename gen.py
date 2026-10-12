@@ -15,6 +15,7 @@ for r in get(f"https://api.github.com/users/{U}/repos?per_page=100&sort=pushed")
     except Exception: continue
     t=re.search(r"<title>(.*?)</title>",html,re.S); t=t.group(1).strip() if t else n
     m=meta.get(n,{})
+    if m.get("hide"): continue
     out.append({"repo":n,"url":url,"title":m.get("title",t),"th":m.get("th",""),"cat":m.get("cat","Other"),
       "emoji":m.get("emoji","🌐"),"desc":m.get("desc") or r.get("description") or "",
       "thumb":f"thumbs/{n}.jpg" if os.path.exists(f"thumbs/{n}.jpg") else "","pushed":r["pushed_at"]})
