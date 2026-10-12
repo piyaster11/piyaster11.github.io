@@ -1,10 +1,10 @@
 {
-"sports-highlights": {
+"piyaster-flix": {
 "title": "Piyaster Flix",
 "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ มีม",
 "cat": "Fun",
 "emoji": "⚽",
-"desc": "Free official sports, gaming, music & Japan videos, books and memes, Netflix style"
+"desc": "Free official sports, gaming & music videos, everyday Japanese phrases, books and memes, Netflix style"
 },
 "thai-coupon-dashboard": {
 "th": "ดีลประจำวันกรุงเทพ",
@@ -60,5 +60,8 @@
 "cat": "Business",
 "emoji": "✨",
 "desc": "Aurelia Clinic: luxury skincare & aesthetic clinic site, Bangkok"
+},
+"sports-highlights": {
+"hide": true
 }
 }
