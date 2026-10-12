@@ -1,0 +1,112 @@
+[
+ {
+  "repo": "sports-highlights",
+  "url": "https://piyaster11.github.io/sports-highlights/",
+  "title": "Sportflix – Free Official Highlights",
+  "th": "ไฮไลต์กีฬาและเกม",
+  "cat": "Fun",
+  "emoji": "⚽",
+  "desc": "Free official sports & gaming highlights, Netflix style",
+  "thumb": "thumbs/sports-highlights.jpg",
+  "pushed": "2026-10-12T21:22:47Z"
+ },
+ {
+  "repo": "thai-coupon-dashboard",
+  "url": "https://piyaster11.github.io/thai-coupon-dashboard/",
+  "title": "🇹🇭 Bangkok Daily Deals",
+  "th": "ดีลประจำวันกรุงเทพ",
+  "cat": "Shop",
+  "emoji": "🏷️",
+  "desc": "Today's promo codes for food, rides, shopping, travel & AI tools",
+  "thumb": "thumbs/thai-coupon-dashboard.jpg",
+  "pushed": "2026-10-12T01:04:33Z"
+ },
+ {
+  "repo": "pixelforge",
+  "url": "https://piyaster11.github.io/pixelforge/",
+  "title": "PixelForge — browser image editor",
+  "th": "โปรแกรมแต่งรูป",
+  "cat": "Tools",
+  "emoji": "🎨",
+  "desc": "Private, layer-based image editor that runs in your browser",
+  "thumb": "thumbs/pixelforge.jpg",
+  "pushed": "2026-10-11T07:36:40Z"
+ },
+ {
+  "repo": "hongyok-peanut",
+  "url": "https://piyaster11.github.io/hongyok-peanut/",
+  "title": "ถั่วหงหยก · Hong Yok Peanut",
+  "th": "ถั่วหงหยก",
+  "cat": "Shop",
+  "emoji": "🥜",
+  "desc": "Hong Yok Peanut online shop",
+  "thumb": "thumbs/hongyok-peanut.jpg",
+  "pushed": "2026-10-10T09:03:49Z"
+ },
+ {
+  "repo": "meme-library",
+  "url": "https://piyaster11.github.io/meme-library/",
+  "title": "Meme Library · คลังมีม",
+  "th": "คลังมีม",
+  "cat": "Fun",
+  "emoji": "😂",
+  "desc": "Searchable meme library with reply memes",
+  "thumb": "thumbs/meme-library.jpg",
+  "pushed": "2026-10-10T03:29:21Z"
+ },
+ {
+  "repo": "th-nursing-homes-map",
+  "url": "https://piyaster11.github.io/th-nursing-homes-map/",
+  "title": "Thailand Nursing Homes Map · แผนที่ศูนย์ดูแลผู้สูงอายุ",
+  "th": "แผนที่ศูนย์ดูแลผู้สูงอายุ",
+  "cat": "Maps",
+  "emoji": "🗺️",
+  "desc": "Map of nursing homes in Thailand",
+  "thumb": "thumbs/th-nursing-homes-map.jpg",
+  "pushed": "2026-10-10T02:00:30Z"
+ },
+ {
+  "repo": "heartbreak-posts",
+  "url": "https://piyaster11.github.io/heartbreak-posts/",
+  "title": "อกหักแต่ปัง 💔 ไอเดียโพสต์จากไวรัลจริง · Heartbreak Posts (MOCKUP)",
+  "th": "อกหักแต่ปัง",
+  "cat": "Fun",
+  "emoji": "💔",
+  "desc": "Heartbreak post ideas from real viral posts (mockup)",
+  "thumb": "thumbs/heartbreak-posts.jpg",
+  "pushed": "2026-10-09T14:03:40Z"
+ },
+ {
+  "repo": "bangkok-flood-map",
+  "url": "https://piyaster11.github.io/bangkok-flood-map/",
+  "title": "Bangkok Flood Monitor · live map",
+  "th": "แผนที่น้ำท่วมกรุงเทพ",
+  "cat": "Maps",
+  "emoji": "🌧️",
+  "desc": "Live Bangkok flood map: rain radar, water levels, road reports, traffic cams",
+  "thumb": "thumbs/bangkok-flood-map.jpg",
+  "pushed": "2026-10-04T04:39:04Z"
+ },
+ {
+  "repo": "bangkok-soapy-dashboard",
+  "url": "https://piyaster11.github.io/bangkok-soapy-dashboard/",
+  "title": "Bangkok Gentlemen Soapy — Price Dashboard",
+  "th": "แดชบอร์ดราคา",
+  "cat": "Business",
+  "emoji": "📊",
+  "desc": "Bangkok gentlemen soapy price tracker dashboard",
+  "thumb": "thumbs/bangkok-soapy-dashboard.jpg",
+  "pushed": "2026-09-11T08:10:16Z"
+ },
+ {
+  "repo": "website1",
+  "url": "https://piyaster11.github.io/website1/",
+  "title": "Aurelia Clinic | Luxury Skincare & Aesthetic Medicine | Bangkok",
+  "th": "ออเรเลีย คลินิก",
+  "cat": "Business",
+  "emoji": "✨",
+  "desc": "Aurelia Clinic: luxury skincare & aesthetic clinic site, Bangkok",
+  "thumb": "thumbs/website1.jpg",
+  "pushed": "2026-07-22T03:31:57Z"
+ }
+]
