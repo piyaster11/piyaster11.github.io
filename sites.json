@@ -3,23 +3,12 @@
   "repo": "piyaster-flix",
   "url": "https://piyaster11.github.io/piyaster-flix/",
   "title": "Piyaster Flix",
-  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ มีม",
+  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
   "cat": "Fun",
   "emoji": "⚽",
-  "desc": "Free official sports, gaming & music videos, everyday Japanese phrases, books and memes, Netflix style",
+  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
   "pushed": "2026-10-12T21:22:47Z"
- },
- {
-  "repo": "thai-coupon-dashboard",
-  "url": "https://piyaster11.github.io/thai-coupon-dashboard/",
-  "title": "🇹🇭 Bangkok Daily Deals",
-  "th": "ดีลประจำวันกรุงเทพ",
-  "cat": "Shop",
-  "emoji": "🏷️",
-  "desc": "Today's promo codes for food, rides, shopping, travel & AI tools",
-  "thumb": "thumbs/thai-coupon-dashboard.jpg",
-  "pushed": "2026-10-12T01:04:33Z"
  },
  {
   "repo": "pixelforge",
