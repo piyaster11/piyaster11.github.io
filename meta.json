@@ -71,5 +71,12 @@
 "cat": "Tools",
 "emoji": "🇹🇼",
 "desc": "Everyday Taiwan Mandarin for visitors: 165 phrases with pinyin, English, Thai and audio"
+},
+"shanghai-phrases": {
+"title": "Shanghai Phrases · ภาษาเซี่ยงไฮ้",
+"th": "ภาษาจีนสำหรับเที่ยวเซี่ยงไฮ้ พร้อมเสียง",
+"cat": "Tools",
+"emoji": "🇨🇳",
+"desc": "Everyday Mandarin for visiting Shanghai: 169 phrases with pinyin, English, Thai and audio"
 }
 }
