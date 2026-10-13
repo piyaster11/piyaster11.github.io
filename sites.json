@@ -1,5 +1,16 @@
 [
  {
+  "repo": "taiwan-phrases",
+  "url": "https://piyaster11.github.io/taiwan-phrases/",
+  "title": "Taiwan Phrases · ภาษาไต้หวัน",
+  "th": "ภาษาจีนไต้หวันสำหรับเที่ยว พร้อมเสียง",
+  "cat": "Tools",
+  "emoji": "🇹🇼",
+  "desc": "Everyday Taiwan Mandarin for visitors: 165 phrases with pinyin, English, Thai and audio",
+  "thumb": "thumbs/taiwan-phrases.jpg",
+  "pushed": "2026-10-13T03:19:49Z"
+ },
+ {
   "repo": "piyaster-flix",
   "url": "https://piyaster11.github.io/piyaster-flix/",
   "title": "Piyaster Flix",
@@ -8,7 +19,18 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-10-12T21:22:47Z"
+  "pushed": "2026-10-13T02:35:39Z"
+ },
+ {
+  "repo": "piyasterbot",
+  "url": "https://piyaster11.github.io/piyasterbot/",
+  "title": "PiyasterBOT",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-10-12T22:55:55Z"
  },
  {
   "repo": "pixelforge",

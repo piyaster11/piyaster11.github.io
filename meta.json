@@ -64,5 +64,12 @@
 },
 "sports-highlights": {
 "hide": true
+},
+"taiwan-phrases": {
+"title": "Taiwan Phrases · ภาษาไต้หวัน",
+"th": "ภาษาจีนไต้หวันสำหรับเที่ยว พร้อมเสียง",
+"cat": "Tools",
+"emoji": "🇹🇼",
+"desc": "Everyday Taiwan Mandarin for visitors: 165 phrases with pinyin, English, Thai and audio"
 }
 }
