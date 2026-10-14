@@ -1,5 +1,27 @@
 [
  {
+  "repo": "piyaster-flix",
+  "url": "https://piyaster11.github.io/piyaster-flix/",
+  "title": "Piyaster Flix",
+  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
+  "cat": "Fun",
+  "emoji": "⚽",
+  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
+  "thumb": "thumbs/piyaster-flix.jpg",
+  "pushed": "2026-10-14T02:14:59Z"
+ },
+ {
+  "repo": "piyasterbot",
+  "url": "https://piyaster11.github.io/piyasterbot/",
+  "title": "PiyasterBOT",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-10-14T02:03:58Z"
+ },
+ {
   "repo": "shanghai-phrases",
   "url": "https://piyaster11.github.io/shanghai-phrases/",
   "title": "Shanghai Phrases · ภาษาเซี่ยงไฮ้",
@@ -20,28 +42,6 @@
   "desc": "Everyday Taiwan Mandarin for visitors: 165 phrases with pinyin, English, Thai and audio",
   "thumb": "thumbs/taiwan-phrases.jpg",
   "pushed": "2026-10-13T03:45:21Z"
- },
- {
-  "repo": "piyaster-flix",
-  "url": "https://piyaster11.github.io/piyaster-flix/",
-  "title": "Piyaster Flix",
-  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
-  "cat": "Fun",
-  "emoji": "⚽",
-  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
-  "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-10-13T03:45:19Z"
- },
- {
-  "repo": "piyasterbot",
-  "url": "https://piyaster11.github.io/piyasterbot/",
-  "title": "PiyasterBOT",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "",
-  "thumb": "",
-  "pushed": "2026-10-12T22:55:55Z"
  },
  {
   "repo": "pixelforge",
