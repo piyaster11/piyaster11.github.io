@@ -8,7 +8,40 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-10-14T02:14:59Z"
+  "pushed": "2026-10-14T23:56:18Z"
+ },
+ {
+  "repo": "mp3-cutter",
+  "url": "https://piyaster11.github.io/mp3-cutter/",
+  "title": "MP3 Cutter – MP4 to MP3",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-10-14T12:21:16Z"
+ },
+ {
+  "repo": "card-scanner",
+  "url": "https://piyaster11.github.io/card-scanner/",
+  "title": "Card Scanner",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-10-14T09:59:17Z"
+ },
+ {
+  "repo": "neon-piano",
+  "url": "https://piyaster11.github.io/neon-piano/",
+  "title": "Piyaster Piano",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-10-14T09:24:45Z"
  },
  {
   "repo": "piyasterbot",
