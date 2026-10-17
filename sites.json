@@ -1,5 +1,16 @@
 [
  {
+  "repo": "piyaster-market-dashboard",
+  "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
+  "title": "Piyaster 99/99 Market Update",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-10-17T01:21:40Z"
+ },
+ {
   "repo": "piyaster-flix",
   "url": "https://piyaster11.github.io/piyaster-flix/",
   "title": "Piyaster Flix",
@@ -8,7 +19,7 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-10-15T21:25:37Z"
+  "pushed": "2026-10-16T23:37:57Z"
  },
  {
   "repo": "mp3-cutter",
