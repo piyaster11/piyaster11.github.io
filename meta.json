@@ -1,89 +1,82 @@
 {
-"piyaster-flix": {
-"title": "Piyaster Flix",
-"th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
-"cat": "Fun",
-"emoji": "⚽",
-"desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style"
-},
-"thai-coupon-dashboard": {
-"th": "ดีลประจำวันกรุงเทพ",
-"cat": "Shop",
-"emoji": "🏷️",
-"desc": "Today's promo codes for food, rides, shopping, travel & AI tools",
-"hide": true
-},
-"pixelforge": {
-"th": "โปรแกรมแต่งรูป",
-"cat": "Tools",
-"emoji": "🎨",
-"desc": "Private, layer-based image editor that runs in your browser"
-},
-"hongyok-peanut": {
-"th": "ถั่วหงหยก",
-"cat": "Shop",
-"emoji": "🥜",
-"desc": "Hong Yok Peanut online shop"
-},
-"meme-library": {
-"th": "คลังมีม",
-"cat": "Fun",
-"emoji": "😂",
-"desc": "Searchable meme library with reply memes",
-"hide": true
-},
-"th-nursing-homes-map": {
-"th": "แผนที่ศูนย์ดูแลผู้สูงอายุ",
-"cat": "Maps",
-"emoji": "🗺️",
-"desc": "Map of nursing homes in Thailand"
-},
-"heartbreak-posts": {
-"th": "อกหักแต่ปัง",
-"cat": "Fun",
-"emoji": "💔",
-"desc": "Heartbreak post ideas from real viral posts (mockup)"
-},
-"bangkok-flood-map": {
-"th": "แผนที่น้ำท่วมกรุงเทพ",
-"cat": "Maps",
-"emoji": "🌧️",
-"desc": "Live Bangkok flood map: rain radar, water levels, road reports, traffic cams"
-},
-"bangkok-soapy-dashboard": {
-"th": "แดชบอร์ดราคา",
-"cat": "Business",
-"emoji": "📊",
-"desc": "Bangkok gentlemen soapy price tracker dashboard"
-},
-"website1": {
-"th": "ออเรเลีย คลินิก",
-"cat": "Business",
-"emoji": "✨",
-"desc": "Aurelia Clinic: luxury skincare & aesthetic clinic site, Bangkok"
-},
-"sports-highlights": {
-"hide": true
-},
-"taiwan-phrases": {
-"title": "Taiwan Phrases · ภาษาไต้หวัน",
-"th": "ภาษาจีนไต้หวันสำหรับเที่ยว พร้อมเสียง",
-"cat": "Tools",
-"emoji": "🇹🇼",
-"desc": "Everyday Taiwan Mandarin for visitors: 165 phrases with pinyin, English, Thai and audio"
-},
-"shanghai-phrases": {
-"title": "Shanghai Phrases · ภาษาเซี่ยงไฮ้",
-"th": "ภาษาจีนสำหรับเที่ยวเซี่ยงไฮ้ พร้อมเสียง",
-"cat": "Tools",
-"emoji": "🇨🇳",
-"desc": "Everyday Mandarin for visiting Shanghai: 169 phrases with pinyin, English, Thai and audio"
-},
-"layoff-tracker": {
-"title": "Layoff & Youth Jobs Tracker",
-"th": "ติดตามการเลิกจ้าง และคนรุ่นใหม่ว่างงาน สหรัฐฯ–จีน",
-"cat": "Business",
-"emoji": "📉",
-"desc": "Sourced layoffs Oct 2024–Oct 2026 + US & China youth unemployment, with fact-checks"
-}
+ "piyaster-flix": {
+  "title": "Piyaster Flix",
+  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
+  "cat": "Fun",
+  "emoji": "⚽",
+  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style"
+ },
+ "thai-coupon-dashboard": {
+  "th": "ดีลประจำวันกรุงเทพ",
+  "cat": "Shop",
+  "emoji": "🏷️",
+  "desc": "Today's promo codes for food, rides, shopping, travel & AI tools",
+  "hide": true
+ },
+ "pixelforge": {
+  "th": "โปรแกรมแต่งรูป",
+  "cat": "Tools",
+  "emoji": "🎨",
+  "desc": "Private, layer-based image editor that runs in your browser"
+ },
+ "hongyok-peanut": {
+  "th": "ถั่วหงหยก",
+  "cat": "Shop",
+  "emoji": "🥜",
+  "desc": "Hong Yok Peanut online shop"
+ },
+ "meme-library": {
+  "th": "คลังมีม",
+  "cat": "Fun",
+  "emoji": "😂",
+  "desc": "Searchable meme library with reply memes",
+  "hide": true
+ },
+ "th-nursing-homes-map": {
+  "th": "แผนที่ศูนย์ดูแลผู้สูงอายุ",
+  "cat": "Maps",
+  "emoji": "🗺️",
+  "desc": "Map of nursing homes in Thailand"
+ },
+ "heartbreak-posts": {
+  "th": "อกหักแต่ปัง",
+  "cat": "Fun",
+  "emoji": "💔",
+  "desc": "Heartbreak post ideas from real viral posts (mockup)"
+ },
+ "bangkok-flood-map": {
+  "th": "แผนที่น้ำท่วมกรุงเทพ",
+  "cat": "Maps",
+  "emoji": "🌧️",
+  "desc": "Live Bangkok flood map: rain radar, water levels, road reports, traffic cams"
+ },
+ "bangkok-soapy-dashboard": {
+  "th": "แดชบอร์ดราคา",
+  "cat": "Business",
+  "emoji": "📊",
+  "desc": "Bangkok gentlemen soapy price tracker dashboard"
+ },
+ "website1": {
+  "th": "ออเรเลีย คลินิก",
+  "cat": "Business",
+  "emoji": "✨",
+  "desc": "Aurelia Clinic: luxury skincare & aesthetic clinic site, Bangkok"
+ },
+ "sports-highlights": {
+  "hide": true
+ },
+ "taiwan-phrases": {
+  "title": "Taiwan Phrases · ภาษาไต้หวัน",
+  "th": "ภาษาจีนไต้หวันสำหรับเที่ยว พร้อมเสียง",
+  "cat": "Tools",
+  "emoji": "🇹🇼",
+  "desc": "Everyday Taiwan Mandarin for visitors: 165 phrases with pinyin, English, Thai and audio"
+ },
+ "shanghai-phrases": {
+  "title": "Shanghai Phrases · ภาษาเซี่ยงไฮ้",
+  "th": "ภาษาจีนสำหรับเที่ยวเซี่ยงไฮ้ พร้อมเสียง",
+  "cat": "Tools",
+  "emoji": "🇨🇳",
+  "desc": "Everyday Mandarin for visiting Shanghai: 169 phrases with pinyin, English, Thai and audio"
+ }
 }
