@@ -1,5 +1,16 @@
 [
  {
+  "repo": "layoff-tracker",
+  "url": "https://piyaster11.github.io/layoff-tracker/",
+  "title": "Layoff & Youth Jobs Tracker",
+  "th": "ติดตามการเลิกจ้าง และคนรุ่นใหม่ว่างงาน สหรัฐฯ–จีน",
+  "cat": "Business",
+  "emoji": "📉",
+  "desc": "Sourced layoffs Oct 2024–Oct 2026 + US & China youth unemployment, with fact-checks",
+  "thumb": "thumbs/layoff-tracker.jpg",
+  "pushed": "2026-10-24T04:50:00Z"
+ },
+ {
   "repo": "piyaster-market-dashboard",
   "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
   "title": "Piyaster 99/99 Market Update",

@@ -78,5 +78,12 @@
 "cat": "Tools",
 "emoji": "🇨🇳",
 "desc": "Everyday Mandarin for visiting Shanghai: 169 phrases with pinyin, English, Thai and audio"
+},
+"layoff-tracker": {
+"title": "Layoff & Youth Jobs Tracker",
+"th": "ติดตามการเลิกจ้าง และคนรุ่นใหม่ว่างงาน สหรัฐฯ–จีน",
+"cat": "Business",
+"emoji": "📉",
+"desc": "Sourced layoffs Oct 2024–Oct 2026 + US & China youth unemployment, with fact-checks"
 }
 }
