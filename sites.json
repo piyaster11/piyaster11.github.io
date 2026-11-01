@@ -1,5 +1,27 @@
 [
  {
+  "repo": "thaicreditradar",
+  "url": "https://piyaster11.github.io/thaicreditradar/",
+  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
+  "thumb": "",
+  "pushed": "2026-11-01T02:48:45Z"
+ },
+ {
+  "repo": "thaicreditbrief",
+  "url": "https://piyaster11.github.io/thaicreditbrief/",
+  "title": "Thai Credit Brief · สรุปเครดิตไทย",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
+  "thumb": "",
+  "pushed": "2026-11-01T02:46:35Z"
+ },
+ {
   "repo": "piyaster-market-dashboard",
   "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
   "title": "Piyaster 99/99 Market Update",
@@ -8,7 +30,7 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-10-31T00:52:04Z"
+  "pushed": "2026-11-01T02:18:45Z"
  },
  {
   "repo": "piyaster-flix",
@@ -19,7 +41,7 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-10-30T22:22:55Z"
+  "pushed": "2026-11-01T00:08:58Z"
  },
  {
   "repo": "court-cam",
