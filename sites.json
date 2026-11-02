@@ -1,27 +1,5 @@
 [
  {
-  "repo": "thaicreditradar",
-  "url": "https://piyaster11.github.io/thaicreditradar/",
-  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
-  "thumb": "",
-  "pushed": "2026-11-01T02:48:45Z"
- },
- {
-  "repo": "thaicreditbrief",
-  "url": "https://piyaster11.github.io/thaicreditbrief/",
-  "title": "Thai Credit Brief · สรุปเครดิตไทย",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
-  "thumb": "",
-  "pushed": "2026-11-01T02:46:35Z"
- },
- {
   "repo": "piyaster-market-dashboard",
   "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
   "title": "Piyaster 99/99 Market Update",
@@ -30,7 +8,7 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-01T02:18:45Z"
+  "pushed": "2026-11-02T00:52:31Z"
  },
  {
   "repo": "piyaster-flix",
@@ -41,7 +19,51 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-01T00:08:58Z"
+  "pushed": "2026-11-02T00:46:30Z"
+ },
+ {
+  "repo": "thaicreditbrief",
+  "url": "https://piyaster11.github.io/thaicreditbrief/",
+  "title": "Thai Credit Brief · สรุปเครดิตไทย",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
+  "thumb": "",
+  "pushed": "2026-11-02T00:34:28Z"
+ },
+ {
+  "repo": "ww3watch",
+  "url": "https://piyaster11.github.io/ww3watch/",
+  "title": "MIDNIGHT HOUR — How close are we to World War III?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-01T11:58:26Z"
+ },
+ {
+  "repo": "thaicreditanalyst",
+  "url": "https://piyaster11.github.io/thaicreditanalyst/",
+  "title": "Thai Credit Analyst · นักวิเคราะห์เครดิตไทย",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-01T03:02:17Z"
+ },
+ {
+  "repo": "thaicreditradar",
+  "url": "https://piyaster11.github.io/thaicreditradar/",
+  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
+  "thumb": "",
+  "pushed": "2026-11-01T02:48:45Z"
  },
  {
   "repo": "court-cam",
