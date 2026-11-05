@@ -1,16 +1,5 @@
 [
  {
-  "repo": "thaicreditbrief",
-  "url": "https://piyaster11.github.io/thaicreditbrief/",
-  "title": "Thai Credit Brief · สรุปเครดิตไทย",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
-  "thumb": "",
-  "pushed": "2026-11-04T00:35:01Z"
- },
- {
   "repo": "piyaster-market-dashboard",
   "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
   "title": "Piyaster 99/99 Market Update",
@@ -19,7 +8,18 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-04T00:10:30Z"
+  "pushed": "2026-11-05T02:31:50Z"
+ },
+ {
+  "repo": "thaicreditbrief",
+  "url": "https://piyaster11.github.io/thaicreditbrief/",
+  "title": "Thai Credit Brief · สรุปเครดิตไทย",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
+  "thumb": "",
+  "pushed": "2026-11-05T00:37:59Z"
  },
  {
   "repo": "piyaster-flix",
@@ -30,7 +30,29 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-03T23:24:59Z"
+  "pushed": "2026-11-04T23:41:23Z"
+ },
+ {
+  "repo": "thailand-fake-products-2026",
+  "url": "https://piyaster11.github.io/thailand-fake-products-2026/",
+  "title": "สินค้าปลอม-อันตราย ที่ถูกจับในไทย ส.ค.–พ.ย. 2569 | Fake products busted in Thailand",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-04T13:08:26Z"
+ },
+ {
+  "repo": "aicontainment",
+  "url": "https://piyaster11.github.io/aicontainment/",
+  "title": "CONTAINMENT — Is AI still in the box?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
+  "thumb": "",
+  "pushed": "2026-11-04T08:36:19Z"
  },
  {
   "repo": "thaicreditradar",
@@ -41,7 +63,7 @@
   "emoji": "🌐",
   "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
   "thumb": "",
-  "pushed": "2026-11-03T06:39:06Z"
+  "pushed": "2026-11-04T06:06:23Z"
  },
  {
   "repo": "ww3watch",
@@ -52,7 +74,7 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-03T04:58:07Z"
+  "pushed": "2026-11-04T04:29:20Z"
  },
  {
   "repo": "thaicreditanalyst",
