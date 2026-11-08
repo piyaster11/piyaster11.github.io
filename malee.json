@@ -1,0 +1,63 @@
+{
+ "note": "Personal work list for malee.html. Add a verified public https page under tools, or a Grok Bot name under bots. Do not add in-app links, unverified bot websites, or private upload URLs.",
+ "updated": "8 Nov 2026",
+ "tools": [
+  {
+   "section": "New products",
+   "sectionTh": "สินค้าใหม่",
+   "kicker": "Dashboard",
+   "title": "Malee NPD Dashboard",
+   "th": "สินค้าใหม่จากข้อมูลสาธารณะ",
+   "desc": "Public-source product and market insights. Planning tools are labeled as samples.",
+   "href": "https://piyaster11.github.io/malee-npd-dashboard/",
+   "action": "Open NPD dashboard",
+   "source": "https://github.com/piyaster11/malee-npd-dashboard",
+   "sourceLabel": "GitHub source"
+  },
+  {
+   "section": "Social content",
+   "sectionTh": "เนื้อหาโซเชียล",
+   "kicker": "Draft planner",
+   "title": "Malee Social Ideas",
+   "th": "ไอเดียโพสต์ ไทย/อังกฤษ",
+   "desc": "Draft content planning, plus F&B, coconut, and competitor social notes.",
+   "href": "https://piyaster11.github.io/malee-social-ideas/",
+   "action": "Open social ideas",
+   "source": "https://github.com/piyaster11/malee-social-ideas",
+   "sourceLabel": "GitHub source"
+  },
+  {
+   "section": "Competitive analysis",
+   "sectionTh": "วิเคราะห์คู่แข่ง",
+   "kicker": "Dashboard",
+   "title": "Malee Competitive Pricing Dashboard",
+   "th": "เทียบราคาบนเชลฟ์",
+   "desc": "Retailer and pack filters, comparisons, summaries, recommendations, and source notes.",
+   "href": "https://piyaster11.github.io/piyaster-market-dashboard/malee-shelf-comparison/",
+   "action": "Open pricing dashboard"
+  },
+  {
+   "section": "Competitive analysis",
+   "sectionTh": "วิเคราะห์คู่แข่ง",
+   "kicker": "Photo page",
+   "title": "Malee Shelf Photos",
+   "th": "รูปชั้นวางสินค้า",
+   "desc": "Public landing page. Uploading needs private rep access, which is not listed here.",
+   "access": "Upload needs rep access",
+   "href": "https://piyaster11.github.io/piyaster-market-dashboard/malee-shelf-photos/",
+   "action": "Open shelf photos"
+  }
+ ],
+ "bots": [
+  {
+   "name": "2.Legal Advisor",
+   "th": "ฉลาก คำกล่าวอ้าง และข้อกำหนด",
+   "desc": "Food and beverage labels, claims, and regulatory review."
+  },
+  {
+   "name": "3.Marketing-Image Gen",
+   "th": "ภาพการตลาดจากบรีฟและภาพอ้างอิง",
+   "desc": "Marketing image generation from briefs and references."
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Unofficial personal Malee work hub: public dashboards and tools, plus Grok Bot names with no web links.">
+<meta name="color-scheme" content="dark">
+<title>Malee work hub · ฮับงานมาลี</title>
+<style>
+:root{
+  --bg:#101412;--card:#1a221e;--line:#314038;--text:#f4f7f5;--muted:#c9d4ce;
+  --soft:#a8b9b0;--accent:#d5f5e1;--btn:#2f6d4f;--chip:#3a2f1c;--chiptext:#f6e7c8;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--bg);color:var(--text);
+  font-family:system-ui,-apple-system,"Noto Sans Thai","Thonburi",sans-serif;
+  line-height:1.45;
+  padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+.wrap{max-width:720px;margin:0 auto;padding:12px 16px 40px}
+a{color:inherit}
+.back{display:inline-flex;align-items:center;min-height:44px;color:var(--accent);font-weight:650;text-decoration:none}
+.back:focus-visible,.jumps a:focus-visible,a.btn:focus-visible,a.textlink:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.banner{margin:4px 0 0;padding:10px 12px;border-radius:12px;background:#241f16;color:var(--chiptext);font-size:.92rem}
+h1{margin:12px 0 0;font-size:1.7rem;line-height:1.15;letter-spacing:-.02em}
+.lede{margin:6px 0 0;color:var(--muted);font-size:1rem}
+.jumps{display:flex;gap:8px;position:sticky;top:env(safe-area-inset-top);z-index:2;margin:12px -16px 0;padding:8px 16px;background:var(--bg)}
+.jumps a{flex:1;display:flex;align-items:center;justify-content:center;min-height:44px;border-radius:999px;background:#24302a;color:var(--accent);text-decoration:none;font-weight:700}
+h2{margin:22px 0 4px;font-size:1.15rem}
+.section-lead{margin:0 0 12px;color:var(--muted)}
+.sub{margin:14px 0 8px;font-size:.95rem;color:var(--accent)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px 14px 10px;margin:0 0 12px}
+.kicker{margin:0;color:var(--soft);font-size:.72rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase}
+h3,h4{margin:3px 0 0;font-size:1.12rem;line-height:1.25}
+.th{margin:3px 0 0;color:var(--muted);font-size:.95rem}
+.desc{margin:8px 0 0}
+.status{display:inline-block;margin:8px 0 0;color:var(--chiptext);font-size:.9rem;font-weight:650}
+.actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:8px}
+a.btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:10px 14px;border-radius:999px;background:var(--btn);color:#f4fff8;text-decoration:none;font-weight:700}
+a.textlink{display:inline-flex;align-items:center;min-height:44px;padding:0 4px;color:var(--accent);font-weight:650;text-decoration:underline;text-underline-offset:3px}
+.bot{border-color:#3d5c4c}
+.how{margin:10px 0 4px;padding-top:10px;border-top:1px solid var(--line)}
+footer{margin-top:8px;color:var(--soft);font-size:.85rem}
+@media (min-width:720px){h1{font-size:2rem}.wrap{padding-top:20px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<a class="back" href="index.html">← My Sites · เว็บของฉัน</a>
+<p class="banner">Unofficial personal workspace. Not a Malee company site.<br><span lang="th">พื้นที่ส่วนตัว ไม่ใช่เว็บทางการของมาลี</span></p>
+<h1>Malee work hub</h1>
+<p class="lede" lang="th">แดชบอร์ด เครื่องมือ และชื่อบอท สำหรับงานมาลี</p>
+<nav class="jumps" aria-label="Sections">
+<a href="#tools">Dashboards</a>
+<a href="#bots">Bots</a>
+</nav>
+
+<h2 id="tools">Dashboards and tools</h2>
+<p class="section-lead">Verified public pages only.</p>
+<div id="tool-list"></div>
+
+<h2 id="bots">Bot directory</h2>
+<p class="section-lead">No public web address is verified for these bots, so this page does not link to them. Open Grok Bot and search the exact name. App links stay in chat.</p>
+<div id="bot-list"></div>
+
+<footer>Updated <span id="updated">8 Nov 2026</span>. Personal work hub. Private upload links and bot web addresses are not published. To add an item later, edit <span lang="en">malee.json</span>.</footer>
+</div>
+<script>
+const e=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function ok(u){
+  try{
+    const x=new URL(u);
+    if(x.protocol!=="https:") return "";
+    if(x.hostname==="piyaster11.github.io") return x.href;
+    if(x.hostname==="github.com"&&x.pathname.startsWith("/piyaster11/")) return x.href;
+  }catch(err){}
+  return "";
+}
+fetch("malee.json?"+Date.now()).then(r=>{if(!r.ok) throw new Error(r.status);return r.json()}).then(data=>{
+  const tools=Array.isArray(data.tools)?data.tools:[];
+  const bots=Array.isArray(data.bots)?data.bots:[];
+  let last="", html="";
+  for(const t of tools){
+    const href=ok(t.href); if(!href) continue;
+    const section=t.section||"Tools";
+    if(section!==last){
+      last=section;
+      html+=`<h3 class="sub">${e(section)}${t.sectionTh?` · ${e(t.sectionTh)}`:""}</h3>`;
+    }
+    const source=t.source?ok(t.source):"";
+    html+=`<article class="card"><p class="kicker">${e(t.kicker||"Public page")}</p><h4>${e(t.title)}</h4>${t.th?`<p class="th" lang="th">${e(t.th)}</p>`:""}<p class="desc">${e(t.desc||"")}</p>${t.access?`<p class="status">${e(t.access)}</p>`:""}<div class="actions"><a class="btn" href="${e(href)}">${e(t.action||"Open")}</a>${source?`<a class="textlink" href="${e(source)}">${e(t.sourceLabel||"Source")}</a>`:""}</div></article>`;
+  }
+  document.getElementById("tool-list").innerHTML=html||"<p>No public tools listed.</p>";
+  document.getElementById("bot-list").innerHTML=bots.map(b=>`<article class="card bot"><p class="kicker">Grok Bot · chat only</p><h3>${e(b.name)}</h3>${b.th?`<p class="th" lang="th">${e(b.th)}</p>`:""}<p class="desc">${e(b.desc||"")}</p><p class="how"><strong>Open in Grok Bot.</strong> Search the exact name <span class="name">${e(b.name)}</span>. This page has no website address for this bot.</p></article>`).join("")||"<p>No bots listed.</p>";
+  if(data.updated) document.getElementById("updated").textContent=data.updated;
+}).catch(()=>{document.getElementById("tool-list").textContent="The work list did not load. Refresh this page."});
+</script>
+</body>
+</html>
