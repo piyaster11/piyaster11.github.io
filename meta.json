@@ -78,5 +78,12 @@
   "cat": "Tools",
   "emoji": "🇨🇳",
   "desc": "Everyday Mandarin for visiting Shanghai: 169 phrases with pinyin, English, Thai and audio"
+ },
+ "invoice-match": {
+  "title": "Invoice Match · sample test",
+  "th": "ตัวอย่างจับคู่ใบแจ้งหนี้",
+  "cat": "Business",
+  "emoji": "🧾",
+  "desc": "Fictional sample: match a supplier invoice to a purchase order and goods-received evidence. Not connected to an ERP."
  }
 }
