@@ -8,7 +8,7 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-07T02:00:06Z"
+  "pushed": "2026-11-08T00:43:26Z"
  },
  {
   "repo": "piyaster-flix",
@@ -19,7 +19,7 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-06T23:11:36Z"
+  "pushed": "2026-11-08T00:38:58Z"
  },
  {
   "repo": "thaicreditradar",
@@ -30,7 +30,7 @@
   "emoji": "🌐",
   "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
   "thumb": "",
-  "pushed": "2026-11-06T06:30:54Z"
+  "pushed": "2026-11-07T05:50:59Z"
  },
  {
   "repo": "aicontainment",
@@ -41,7 +41,7 @@
   "emoji": "🌐",
   "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
   "thumb": "",
-  "pushed": "2026-11-06T05:51:57Z"
+  "pushed": "2026-11-07T05:22:47Z"
  },
  {
   "repo": "ww3watch",
@@ -52,7 +52,7 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-06T04:44:58Z"
+  "pushed": "2026-11-07T04:13:07Z"
  },
  {
   "repo": "thaicreditbrief",
@@ -207,17 +207,6 @@
   "desc": "Map of nursing homes in Thailand",
   "thumb": "thumbs/th-nursing-homes-map.jpg",
   "pushed": "2026-10-10T02:00:30Z"
- },
- {
-  "repo": "heartbreak-posts",
-  "url": "https://piyaster11.github.io/heartbreak-posts/",
-  "title": "อกหักแต่ปัง 💔 ไอเดียโพสต์จากไวรัลจริง · Heartbreak Posts (MOCKUP)",
-  "th": "อกหักแต่ปัง",
-  "cat": "Fun",
-  "emoji": "💔",
-  "desc": "Heartbreak post ideas from real viral posts (mockup)",
-  "thumb": "thumbs/heartbreak-posts.jpg",
-  "pushed": "2026-10-09T14:03:40Z"
  },
  {
   "repo": "bangkok-flood-map",
