@@ -78,5 +78,19 @@
   "cat": "Tools",
   "emoji": "🇨🇳",
   "desc": "Everyday Mandarin for visiting Shanghai: 169 phrases with pinyin, English, Thai and audio"
+ },
+ "malee-npd-dashboard": {
+  "title": "Malee NPD Dashboard",
+  "th": "แดชบอร์ดสินค้าใหม่จากข้อมูลสาธารณะ",
+  "cat": "Business",
+  "emoji": "📦",
+  "desc": "Unofficial public-source new-product and market insights, with planning tools labeled as samples"
+ },
+ "malee-social-ideas": {
+  "title": "Malee Social Ideas",
+  "th": "ไอเดียโพสต์โซเชียล มาลี (ฉบับร่าง)",
+  "cat": "Business",
+  "emoji": "💬",
+  "desc": "Thai and English draft content planning, with F&B and coconut trends and competitor social tracking"
  }
 }

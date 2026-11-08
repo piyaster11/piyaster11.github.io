@@ -19,4 +19,9 @@ for r in get(f"https://api.github.com/users/{U}/repos?per_page=100&sort=pushed")
     out.append({"repo":n,"url":url,"title":m.get("title",t),"th":m.get("th",""),"cat":m.get("cat","Other"),
       "emoji":m.get("emoji","🌐"),"desc":m.get("desc") or r.get("description") or "",
       "thumb":f"thumbs/{n}.jpg" if os.path.exists(f"thumbs/{n}.jpg") else "","pushed":r["pushed_at"]})
+# Same-site pages are not separate repos, so the daily rebuild would drop them.
+local=json.load(open("local-pages.json")) if os.path.exists("local-pages.json") else []
+have={x["url"] for x in out}
+for item in reversed(local):
+    if item.get("url") not in have: out.insert(0,item)
 json.dump(out,open("sites.json","w"),ensure_ascii=False,indent=1);print(len(out),"sites")
