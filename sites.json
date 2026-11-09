@@ -11,6 +11,17 @@
   "pushed": ""
  },
  {
+  "repo": "thailand-fake-products-2026",
+  "url": "https://piyaster11.github.io/thailand-fake-products-2026/",
+  "title": "สินค้าปลอม-อันตราย ที่ถูกจับในไทย ส.ค.–พ.ย. 2569 | Fake products busted in Thailand",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-09T03:02:08Z"
+ },
+ {
   "repo": "piyaster-market-dashboard",
   "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
   "title": "Piyaster 99/99 Market Update",
@@ -19,51 +30,7 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-08T00:43:26Z"
- },
- {
-  "repo": "piyaster-flix",
-  "url": "https://piyaster11.github.io/piyaster-flix/",
-  "title": "Piyaster Flix",
-  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
-  "cat": "Fun",
-  "emoji": "⚽",
-  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
-  "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-08T00:38:58Z"
- },
- {
-  "repo": "thaicreditradar",
-  "url": "https://piyaster11.github.io/thaicreditradar/",
-  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
-  "thumb": "",
-  "pushed": "2026-11-07T05:50:59Z"
- },
- {
-  "repo": "aicontainment",
-  "url": "https://piyaster11.github.io/aicontainment/",
-  "title": "CONTAINMENT — Is AI still in the box?",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
-  "thumb": "",
-  "pushed": "2026-11-07T05:22:47Z"
- },
- {
-  "repo": "ww3watch",
-  "url": "https://piyaster11.github.io/ww3watch/",
-  "title": "MIDNIGHT HOUR — How close are we to World War III?",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "",
-  "thumb": "",
-  "pushed": "2026-11-07T04:13:07Z"
+  "pushed": "2026-11-09T00:58:48Z"
  },
  {
   "repo": "thaicreditbrief",
@@ -74,18 +41,73 @@
   "emoji": "🌐",
   "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
   "thumb": "",
-  "pushed": "2026-11-06T00:39:46Z"
+  "pushed": "2026-11-09T00:38:28Z"
  },
  {
-  "repo": "thailand-fake-products-2026",
-  "url": "https://piyaster11.github.io/thailand-fake-products-2026/",
-  "title": "สินค้าปลอม-อันตราย ที่ถูกจับในไทย ส.ค.–พ.ย. 2569 | Fake products busted in Thailand",
+  "repo": "piyaster-flix",
+  "url": "https://piyaster11.github.io/piyaster-flix/",
+  "title": "Piyaster Flix",
+  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
+  "cat": "Fun",
+  "emoji": "⚽",
+  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
+  "thumb": "thumbs/piyaster-flix.jpg",
+  "pushed": "2026-11-08T22:08:16Z"
+ },
+ {
+  "repo": "thaicreditradar",
+  "url": "https://piyaster11.github.io/thaicreditradar/",
+  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
+  "thumb": "",
+  "pushed": "2026-11-08T05:54:20Z"
+ },
+ {
+  "repo": "aicontainment",
+  "url": "https://piyaster11.github.io/aicontainment/",
+  "title": "CONTAINMENT — Is AI still in the box?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
+  "thumb": "",
+  "pushed": "2026-11-08T05:21:48Z"
+ },
+ {
+  "repo": "malee-npd-dashboard",
+  "url": "https://piyaster11.github.io/malee-npd-dashboard/",
+  "title": "Malee NPD Dashboard",
+  "th": "แดชบอร์ดสินค้าใหม่จากข้อมูลสาธารณะ",
+  "cat": "Business",
+  "emoji": "📦",
+  "desc": "Unofficial public-source new-product and market insights, with planning tools labeled as samples",
+  "thumb": "",
+  "pushed": "2026-11-08T04:22:53Z"
+ },
+ {
+  "repo": "ww3watch",
+  "url": "https://piyaster11.github.io/ww3watch/",
+  "title": "MIDNIGHT HOUR — How close are we to World War III?",
   "th": "",
   "cat": "Other",
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-04T13:08:26Z"
+  "pushed": "2026-11-08T03:56:11Z"
+ },
+ {
+  "repo": "malee-social-ideas",
+  "url": "https://piyaster11.github.io/malee-social-ideas/",
+  "title": "Malee Social Ideas",
+  "th": "ไอเดียโพสต์โซเชียล มาลี (ฉบับร่าง)",
+  "cat": "Business",
+  "emoji": "💬",
+  "desc": "Thai and English draft content planning, with F&B and coconut trends and competitor social tracking",
+  "thumb": "",
+  "pushed": "2026-11-08T03:31:57Z"
  },
  {
   "repo": "thaicreditanalyst",
