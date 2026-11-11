@@ -11,15 +11,15 @@
   "pushed": ""
  },
  {
-  "repo": "piyaster-flix",
-  "url": "https://piyaster11.github.io/piyaster-flix/",
-  "title": "Piyaster Flix",
-  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
-  "cat": "Fun",
-  "emoji": "⚽",
-  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
-  "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-10T03:35:35Z"
+  "repo": "thaicreditbrief",
+  "url": "https://piyaster11.github.io/thaicreditbrief/",
+  "title": "Thai Credit Brief · สรุปเครดิตไทย",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
+  "thumb": "",
+  "pushed": "2026-11-11T00:33:59Z"
  },
  {
   "repo": "piyaster-market-dashboard",
@@ -30,18 +30,29 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-10T02:12:48Z"
+  "pushed": "2026-11-11T00:08:11Z"
  },
  {
-  "repo": "thaicreditbrief",
-  "url": "https://piyaster11.github.io/thaicreditbrief/",
-  "title": "Thai Credit Brief · สรุปเครดิตไทย",
+  "repo": "piyaster-flix",
+  "url": "https://piyaster11.github.io/piyaster-flix/",
+  "title": "Piyaster Flix",
+  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
+  "cat": "Fun",
+  "emoji": "⚽",
+  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
+  "thumb": "thumbs/piyaster-flix.jpg",
+  "pushed": "2026-11-10T21:19:15Z"
+ },
+ {
+  "repo": "thailand-gas-station-site-finder",
+  "url": "https://piyaster11.github.io/thailand-gas-station-site-finder/",
+  "title": "Thailand Gas Station Site Finder",
   "th": "",
   "cat": "Other",
   "emoji": "🌐",
-  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
+  "desc": "Site-selection tool for land in Thailand suitable for a high-traffic gas/service station.",
   "thumb": "",
-  "pushed": "2026-11-10T00:41:09Z"
+  "pushed": "2026-11-10T12:08:52Z"
  },
  {
   "repo": "thaicreditradar",
@@ -52,7 +63,7 @@
   "emoji": "🌐",
   "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
   "thumb": "",
-  "pushed": "2026-11-09T06:11:17Z"
+  "pushed": "2026-11-10T07:08:45Z"
  },
  {
   "repo": "aicontainment",
@@ -63,7 +74,7 @@
   "emoji": "🌐",
   "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
   "thumb": "",
-  "pushed": "2026-11-09T05:32:03Z"
+  "pushed": "2026-11-10T06:43:25Z"
  },
  {
   "repo": "ww3watch",
@@ -74,7 +85,7 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-09T04:11:28Z"
+  "pushed": "2026-11-10T05:40:18Z"
  },
  {
   "repo": "thailand-fake-products-2026",
