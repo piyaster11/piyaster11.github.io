@@ -11,17 +11,6 @@
   "pushed": ""
  },
  {
-  "repo": "thaicreditbrief",
-  "url": "https://piyaster11.github.io/thaicreditbrief/",
-  "title": "Thai Credit Brief · สรุปเครดิตไทย",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
-  "thumb": "",
-  "pushed": "2026-11-11T00:33:59Z"
- },
- {
   "repo": "piyaster-market-dashboard",
   "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
   "title": "Piyaster 99/99 Market Update",
@@ -30,7 +19,18 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-11T00:08:11Z"
+  "pushed": "2026-11-12T03:52:17Z"
+ },
+ {
+  "repo": "nvda-erection-index",
+  "url": "https://piyaster11.github.io/nvda-erection-index/",
+  "title": "NVIDIA Erection Index",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "A joke Fear & Greed-style sentiment gauge for NVIDIA (NVDA) stock.",
+  "thumb": "",
+  "pushed": "2026-11-12T03:03:13Z"
  },
  {
   "repo": "piyaster-flix",
@@ -41,18 +41,51 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-10T21:19:15Z"
+  "pushed": "2026-11-12T00:46:07Z"
  },
  {
-  "repo": "thailand-gas-station-site-finder",
-  "url": "https://piyaster11.github.io/thailand-gas-station-site-finder/",
-  "title": "Thailand Gas Station Site Finder",
+  "repo": "thaicreditbrief",
+  "url": "https://piyaster11.github.io/thaicreditbrief/",
+  "title": "Thai Credit Brief · สรุปเครดิตไทย",
   "th": "",
   "cat": "Other",
   "emoji": "🌐",
-  "desc": "Site-selection tool for land in Thailand suitable for a high-traffic gas/service station.",
+  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
   "thumb": "",
-  "pushed": "2026-11-10T12:08:52Z"
+  "pushed": "2026-11-12T00:30:19Z"
+ },
+ {
+  "repo": "thailand-ufo-files",
+  "url": "https://piyaster11.github.io/thailand-ufo-files/",
+  "title": "Thailand UFO Files — The Truth Is Out There",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "X-Files-styled public dashboard of reported UFO and unusual-sky events in Thailand",
+  "thumb": "",
+  "pushed": "2026-11-11T15:35:58Z"
+ },
+ {
+  "repo": "malee-vs-tipco-social-2026",
+  "url": "https://piyaster11.github.io/malee-vs-tipco-social-2026/",
+  "title": "Malee vs Tipco — social competitive snapshot (Nov 2026)",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Public-view Malee vs Tipco social snapshot (Facebook, Instagram, TikTok), collected 11 Nov 2026, Bangkok time.",
+  "thumb": "",
+  "pushed": "2026-11-11T10:19:23Z"
+ },
+ {
+  "repo": "sorrayuth-news-topics",
+  "url": "https://piyaster11.github.io/sorrayuth-news-topics/",
+  "title": "เพจนี้โพสต์เรื่องอะไร — สรยุทธ สุทัศนะจินดา กรรมกรข่าว",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Topic dashboard of a collected sample of public posts from สรยุทธ สุทัศนะจินดา กรรมกรข่าว, Oct 14–Nov 11 2026.",
+  "thumb": "",
+  "pushed": "2026-11-11T09:50:37Z"
  },
  {
   "repo": "thaicreditradar",
@@ -63,7 +96,7 @@
   "emoji": "🌐",
   "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
   "thumb": "",
-  "pushed": "2026-11-10T07:08:45Z"
+  "pushed": "2026-11-11T06:00:52Z"
  },
  {
   "repo": "aicontainment",
@@ -74,7 +107,7 @@
   "emoji": "🌐",
   "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
   "thumb": "",
-  "pushed": "2026-11-10T06:43:25Z"
+  "pushed": "2026-11-11T05:29:08Z"
  },
  {
   "repo": "ww3watch",
@@ -85,7 +118,18 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-10T05:40:18Z"
+  "pushed": "2026-11-11T04:15:03Z"
+ },
+ {
+  "repo": "thailand-gas-station-site-finder",
+  "url": "https://piyaster11.github.io/thailand-gas-station-site-finder/",
+  "title": "Thailand Gas Station Site Finder",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Site-selection tool for land in Thailand suitable for a high-traffic gas/service station.",
+  "thumb": "",
+  "pushed": "2026-11-11T04:07:18Z"
  },
  {
   "repo": "thailand-fake-products-2026",
