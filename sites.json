@@ -11,17 +11,6 @@
   "pushed": ""
  },
  {
-  "repo": "piyaster-market-dashboard",
-  "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
-  "title": "Piyaster 99/99 Market Update",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "",
-  "thumb": "",
-  "pushed": "2026-11-12T03:52:17Z"
- },
- {
   "repo": "nvda-erection-index",
   "url": "https://piyaster11.github.io/nvda-erection-index/",
   "title": "NVIDIA Erection Index",
@@ -30,7 +19,18 @@
   "emoji": "🌐",
   "desc": "A joke Fear & Greed-style sentiment gauge for NVIDIA (NVDA) stock.",
   "thumb": "",
-  "pushed": "2026-11-12T03:03:13Z"
+  "pushed": "2026-11-13T02:11:47Z"
+ },
+ {
+  "repo": "piyaster-market-dashboard",
+  "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
+  "title": "Piyaster 99/99 Market Update",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-13T01:54:38Z"
  },
  {
   "repo": "piyaster-flix",
@@ -41,7 +41,7 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-12T00:46:07Z"
+  "pushed": "2026-11-13T01:50:44Z"
  },
  {
   "repo": "thaicreditbrief",
@@ -52,7 +52,40 @@
   "emoji": "🌐",
   "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
   "thumb": "",
-  "pushed": "2026-11-12T00:30:19Z"
+  "pushed": "2026-11-13T00:37:28Z"
+ },
+ {
+  "repo": "thaicreditradar",
+  "url": "https://piyaster11.github.io/thaicreditradar/",
+  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
+  "thumb": "",
+  "pushed": "2026-11-12T07:02:17Z"
+ },
+ {
+  "repo": "aicontainment",
+  "url": "https://piyaster11.github.io/aicontainment/",
+  "title": "CONTAINMENT — Is AI still in the box?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
+  "thumb": "",
+  "pushed": "2026-11-12T06:34:59Z"
+ },
+ {
+  "repo": "ww3watch",
+  "url": "https://piyaster11.github.io/ww3watch/",
+  "title": "MIDNIGHT HOUR — How close are we to World War III?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-12T05:26:36Z"
  },
  {
   "repo": "thailand-ufo-files",
@@ -86,39 +119,6 @@
   "desc": "Topic dashboard of a collected sample of public posts from สรยุทธ สุทัศนะจินดา กรรมกรข่าว, Oct 14–Nov 11 2026.",
   "thumb": "",
   "pushed": "2026-11-11T09:50:37Z"
- },
- {
-  "repo": "thaicreditradar",
-  "url": "https://piyaster11.github.io/thaicreditradar/",
-  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
-  "thumb": "",
-  "pushed": "2026-11-11T06:00:52Z"
- },
- {
-  "repo": "aicontainment",
-  "url": "https://piyaster11.github.io/aicontainment/",
-  "title": "CONTAINMENT — Is AI still in the box?",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
-  "thumb": "",
-  "pushed": "2026-11-11T05:29:08Z"
- },
- {
-  "repo": "ww3watch",
-  "url": "https://piyaster11.github.io/ww3watch/",
-  "title": "MIDNIGHT HOUR — How close are we to World War III?",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "",
-  "thumb": "",
-  "pushed": "2026-11-11T04:15:03Z"
  },
  {
   "repo": "thailand-gas-station-site-finder",
