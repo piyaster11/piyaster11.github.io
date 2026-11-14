@@ -1,6 +1,6 @@
 {
  "note": "Personal work list for malee.html. Add a verified public https page under tools, or a Grok Bot name under bots. Do not add in-app links, unverified bot websites, or private upload URLs.",
- "updated": "8 Nov 2026",
+ "updated": "14 Nov 2026",
  "tools": [
   {
    "section": "New products",
@@ -46,6 +46,18 @@
    "access": "Upload needs rep access",
    "href": "https://piyaster11.github.io/piyaster-market-dashboard/malee-shelf-photos/",
    "action": "Open shelf photos"
+  },
+  {
+   "section": "Competitive analysis",
+   "sectionTh": "วิเคราะห์คู่แข่ง",
+   "kicker": "Snapshot",
+   "title": "Malee vs Tipco social",
+   "th": "เทียบโซเชียล มาลี–ทิปโก้",
+   "desc": "Public-view Facebook, Instagram and TikTok snapshot, collected 11 Nov 2026, Bangkok time.",
+   "href": "https://piyaster11.github.io/malee-vs-tipco-social-2026/",
+   "action": "Open social snapshot",
+   "source": "https://github.com/piyaster11/malee-vs-tipco-social-2026",
+   "sourceLabel": "GitHub source"
   }
  ],
  "bots": [
