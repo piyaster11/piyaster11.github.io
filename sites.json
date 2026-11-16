@@ -11,6 +11,17 @@
   "pushed": ""
  },
  {
+  "repo": "thailand-fake-products-2026",
+  "url": "https://piyaster11.github.io/thailand-fake-products-2026/",
+  "title": "สินค้าปลอม-อันตราย ที่ถูกจับในไทย ส.ค.–พ.ย. 2569 | Fake products busted in Thailand",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-16T03:18:06Z"
+ },
+ {
   "repo": "piyaster-market-dashboard",
   "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
   "title": "Piyaster 99/99 Market Update",
@@ -19,7 +30,18 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-15T02:45:57Z"
+  "pushed": "2026-11-16T02:48:51Z"
+ },
+ {
+  "repo": "thaicreditbrief",
+  "url": "https://piyaster11.github.io/thaicreditbrief/",
+  "title": "Thai Credit Brief · สรุปเครดิตไทย",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
+  "thumb": "",
+  "pushed": "2026-11-16T00:38:01Z"
  },
  {
   "repo": "piyaster-flix",
@@ -30,7 +52,18 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-14T22:27:11Z"
+  "pushed": "2026-11-15T22:50:34Z"
+ },
+ {
+  "repo": "tcg-pulse",
+  "url": "https://piyaster11.github.io/tcg-pulse/",
+  "title": "Piyaster TCG Pulse",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "TCG Pulse: interest, sentiment, and a Fear & Greed index for Pokémon, One Piece, MTG, Lorcana, and Yu-Gi-Oh!",
+  "thumb": "",
+  "pushed": "2026-11-15T12:23:29Z"
  },
  {
   "repo": "thaicreditradar",
@@ -41,7 +74,7 @@
   "emoji": "🌐",
   "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
   "thumb": "",
-  "pushed": "2026-11-14T06:10:12Z"
+  "pushed": "2026-11-15T06:17:11Z"
  },
  {
   "repo": "aicontainment",
@@ -52,7 +85,7 @@
   "emoji": "🌐",
   "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
   "thumb": "",
-  "pushed": "2026-11-14T05:42:47Z"
+  "pushed": "2026-11-15T05:41:31Z"
  },
  {
   "repo": "ww3watch",
@@ -63,7 +96,7 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-14T04:36:46Z"
+  "pushed": "2026-11-15T04:26:03Z"
  },
  {
   "repo": "malee-social-ideas",
@@ -97,17 +130,6 @@
   "desc": "A joke Fear & Greed-style sentiment gauge for NVIDIA (NVDA) stock.",
   "thumb": "",
   "pushed": "2026-11-14T01:52:46Z"
- },
- {
-  "repo": "thaicreditbrief",
-  "url": "https://piyaster11.github.io/thaicreditbrief/",
-  "title": "Thai Credit Brief · สรุปเครดิตไทย",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
-  "thumb": "",
-  "pushed": "2026-11-13T00:37:28Z"
  },
  {
   "repo": "thailand-ufo-files",
@@ -152,17 +174,6 @@
   "desc": "Site-selection tool for land in Thailand suitable for a high-traffic gas/service station.",
   "thumb": "",
   "pushed": "2026-11-11T04:07:18Z"
- },
- {
-  "repo": "thailand-fake-products-2026",
-  "url": "https://piyaster11.github.io/thailand-fake-products-2026/",
-  "title": "สินค้าปลอม-อันตราย ที่ถูกจับในไทย ส.ค.–พ.ย. 2569 | Fake products busted in Thailand",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "",
-  "thumb": "",
-  "pushed": "2026-11-09T03:02:08Z"
  },
  {
   "repo": "thaicreditanalyst",
