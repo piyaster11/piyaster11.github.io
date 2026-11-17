@@ -70,6 +70,18 @@
    "action": "Open price watch",
    "source": "https://github.com/piyaster11/malee-commodity-watch",
    "sourceLabel": "GitHub source"
+  },
+  {
+   "section": "Marketing",
+   "sectionTh": "การตลาด",
+   "kicker": "Dashboard",
+   "title": "Russian & Indian Tourist Insights",
+   "th": "ข้อมูลนักท่องเที่ยวรัสเซียและอินเดียในไทย",
+   "desc": "Public-source arrivals, search interest and trip insights for Russian and Indian visitors to Thailand. Sample and draft items labelled.",
+   "href": "https://piyaster11.github.io/malee-tourist-insights/",
+   "action": "Open tourist insights",
+   "source": "https://github.com/piyaster11/malee-tourist-insights",
+   "sourceLabel": "GitHub source"
   }
  ],
  "bots": [
