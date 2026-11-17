@@ -82,6 +82,18 @@
    "action": "Open tourist insights",
    "source": "https://github.com/piyaster11/malee-tourist-insights",
    "sourceLabel": "GitHub source"
+  },
+  {
+   "section": "Sales / Export",
+   "sectionTh": "ขายและส่งออก",
+   "kicker": "Dashboard",
+   "title": "Romania Food Importers & Distributors",
+   "th": "ผู้นำเข้าและผู้จัดจำหน่ายอาหารในโรมาเนีย",
+   "desc": "Map and directory of Romanian FMCG, beverage and Asian/ethnic importers and distributors, with 2025 public accounts. Built for Malee.",
+   "href": "https://piyaster11.github.io/malee-romania-importers/",
+   "action": "Open Romania map",
+   "source": "https://github.com/piyaster11/malee-romania-importers",
+   "sourceLabel": "GitHub source"
   }
  ],
  "bots": [
