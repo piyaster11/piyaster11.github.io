@@ -11,15 +11,15 @@
   "pushed": ""
  },
  {
-  "repo": "thailand-fake-products-2026",
-  "url": "https://piyaster11.github.io/thailand-fake-products-2026/",
-  "title": "สินค้าปลอม-อันตราย ที่ถูกจับในไทย ส.ค.–พ.ย. 2569 | Fake products busted in Thailand",
+  "repo": "malee-tourist-insights",
+  "url": "https://piyaster11.github.io/malee-tourist-insights/",
+  "title": "Russian &amp; Indian Tourist Insights: Thailand — Malee Group (mock-up)",
   "th": "",
   "cat": "Other",
   "emoji": "🌐",
-  "desc": "",
+  "desc": "Russian & Indian Tourist Insights: Thailand — public arrivals, search interest and trip insights (sample and draft items labelled)",
   "thumb": "",
-  "pushed": "2026-11-16T03:18:06Z"
+  "pushed": "2026-11-17T05:03:45Z"
  },
  {
   "repo": "piyaster-market-dashboard",
@@ -30,18 +30,29 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-16T02:48:51Z"
+  "pushed": "2026-11-17T04:37:23Z"
  },
  {
-  "repo": "thaicreditbrief",
-  "url": "https://piyaster11.github.io/thaicreditbrief/",
-  "title": "Thai Credit Brief · สรุปเครดิตไทย",
+  "repo": "nvda-erection-index",
+  "url": "https://piyaster11.github.io/nvda-erection-index/",
+  "title": "NVIDIA Erection Index",
   "th": "",
   "cat": "Other",
   "emoji": "🌐",
-  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
+  "desc": "A joke Fear & Greed-style sentiment gauge for NVIDIA (NVDA) stock.",
   "thumb": "",
-  "pushed": "2026-11-16T00:38:01Z"
+  "pushed": "2026-11-17T04:13:10Z"
+ },
+ {
+  "repo": "malee-npd-dashboard",
+  "url": "https://piyaster11.github.io/malee-npd-dashboard/",
+  "title": "Malee NPD Dashboard",
+  "th": "แดชบอร์ดสินค้าใหม่จากข้อมูลสาธารณะ",
+  "cat": "Business",
+  "emoji": "📦",
+  "desc": "Unofficial public-source new-product and market insights, with planning tools labeled as samples",
+  "thumb": "",
+  "pushed": "2026-11-17T04:10:59Z"
  },
  {
   "repo": "piyaster-flix",
@@ -52,7 +63,84 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-15T22:50:34Z"
+  "pushed": "2026-11-17T03:55:39Z"
+ },
+ {
+  "repo": "malee-commodity-watch",
+  "url": "https://piyaster11.github.io/malee-commodity-watch/",
+  "title": "Commodity &amp; Price Watch — Malee Group (mock-up)",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Malee Commodity & Price Watch: sugar, packaging, coconut, fruit and THB prices vs margin target (public sources, sample figures labelled)",
+  "thumb": "",
+  "pushed": "2026-11-17T03:49:14Z"
+ },
+ {
+  "repo": "thaicreditbrief",
+  "url": "https://piyaster11.github.io/thaicreditbrief/",
+  "title": "Thai Credit Brief · สรุปเครดิตไทย",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
+  "thumb": "",
+  "pushed": "2026-11-17T00:41:49Z"
+ },
+ {
+  "repo": "thailand-gas-station-site-finder",
+  "url": "https://piyaster11.github.io/thailand-gas-station-site-finder/",
+  "title": "Thailand Gas Station Site Finder",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Site-selection tool for land in Thailand suitable for a high-traffic gas/service station.",
+  "thumb": "",
+  "pushed": "2026-11-16T09:03:06Z"
+ },
+ {
+  "repo": "thaicreditradar",
+  "url": "https://piyaster11.github.io/thaicreditradar/",
+  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
+  "thumb": "",
+  "pushed": "2026-11-16T06:16:10Z"
+ },
+ {
+  "repo": "aicontainment",
+  "url": "https://piyaster11.github.io/aicontainment/",
+  "title": "CONTAINMENT — Is AI still in the box?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
+  "thumb": "",
+  "pushed": "2026-11-16T05:41:28Z"
+ },
+ {
+  "repo": "ww3watch",
+  "url": "https://piyaster11.github.io/ww3watch/",
+  "title": "MIDNIGHT HOUR — How close are we to World War III?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-16T04:23:08Z"
+ },
+ {
+  "repo": "thailand-fake-products-2026",
+  "url": "https://piyaster11.github.io/thailand-fake-products-2026/",
+  "title": "สินค้าปลอม-อันตราย ที่ถูกจับในไทย ส.ค.–พ.ย. 2569 | Fake products busted in Thailand",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-16T03:18:06Z"
  },
  {
   "repo": "tcg-pulse",
@@ -66,39 +154,6 @@
   "pushed": "2026-11-15T12:23:29Z"
  },
  {
-  "repo": "thaicreditradar",
-  "url": "https://piyaster11.github.io/thaicreditradar/",
-  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
-  "thumb": "",
-  "pushed": "2026-11-15T06:17:11Z"
- },
- {
-  "repo": "aicontainment",
-  "url": "https://piyaster11.github.io/aicontainment/",
-  "title": "CONTAINMENT — Is AI still in the box?",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
-  "thumb": "",
-  "pushed": "2026-11-15T05:41:31Z"
- },
- {
-  "repo": "ww3watch",
-  "url": "https://piyaster11.github.io/ww3watch/",
-  "title": "MIDNIGHT HOUR — How close are we to World War III?",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "",
-  "thumb": "",
-  "pushed": "2026-11-15T04:26:03Z"
- },
- {
   "repo": "malee-social-ideas",
   "url": "https://piyaster11.github.io/malee-social-ideas/",
   "title": "Malee Social Ideas",
@@ -108,28 +163,6 @@
   "desc": "Thai and English draft content planning, with F&B and coconut trends and competitor social tracking",
   "thumb": "",
   "pushed": "2026-11-14T03:33:41Z"
- },
- {
-  "repo": "malee-npd-dashboard",
-  "url": "https://piyaster11.github.io/malee-npd-dashboard/",
-  "title": "Malee NPD Dashboard",
-  "th": "แดชบอร์ดสินค้าใหม่จากข้อมูลสาธารณะ",
-  "cat": "Business",
-  "emoji": "📦",
-  "desc": "Unofficial public-source new-product and market insights, with planning tools labeled as samples",
-  "thumb": "",
-  "pushed": "2026-11-14T03:32:54Z"
- },
- {
-  "repo": "nvda-erection-index",
-  "url": "https://piyaster11.github.io/nvda-erection-index/",
-  "title": "NVIDIA Erection Index",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "A joke Fear & Greed-style sentiment gauge for NVIDIA (NVDA) stock.",
-  "thumb": "",
-  "pushed": "2026-11-14T01:52:46Z"
  },
  {
   "repo": "thailand-ufo-files",
@@ -163,17 +196,6 @@
   "desc": "Topic dashboard of a collected sample of public posts from สรยุทธ สุทัศนะจินดา กรรมกรข่าว, Oct 14–Nov 11 2026.",
   "thumb": "",
   "pushed": "2026-11-11T09:50:37Z"
- },
- {
-  "repo": "thailand-gas-station-site-finder",
-  "url": "https://piyaster11.github.io/thailand-gas-station-site-finder/",
-  "title": "Thailand Gas Station Site Finder",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Site-selection tool for land in Thailand suitable for a high-traffic gas/service station.",
-  "thumb": "",
-  "pushed": "2026-11-11T04:07:18Z"
  },
  {
   "repo": "thaicreditanalyst",
