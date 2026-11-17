@@ -1,6 +1,6 @@
 {
  "note": "Personal work list for malee.html. Add a verified public https page under tools, or a Grok Bot name under bots. Do not add in-app links, unverified bot websites, or private upload URLs.",
- "updated": "14 Nov 2026",
+ "updated": "17 Nov 2026",
  "tools": [
   {
    "section": "New products",
@@ -57,6 +57,18 @@
    "href": "https://piyaster11.github.io/malee-vs-tipco-social-2026/",
    "action": "Open social snapshot",
    "source": "https://github.com/piyaster11/malee-vs-tipco-social-2026",
+   "sourceLabel": "GitHub source"
+  },
+  {
+   "section": "Commodities",
+   "sectionTh": "ราคาวัตถุดิบ",
+   "kicker": "Dashboard",
+   "title": "Malee Commodity & Price Watch",
+   "th": "ติดตามราคาวัตถุดิบและค่าเงินบาท",
+   "desc": "Sugar, packaging, coconut, fruit and THB prices with forecast and alerts vs the 17–19% margin target. Sample figures labelled.",
+   "href": "https://piyaster11.github.io/malee-commodity-watch/",
+   "action": "Open price watch",
+   "source": "https://github.com/piyaster11/malee-commodity-watch",
    "sourceLabel": "GitHub source"
   }
  ],
