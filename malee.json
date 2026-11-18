@@ -1,6 +1,6 @@
 {
  "note": "Personal work list for malee.html. Add a verified public https page under tools, or a Grok Bot name under bots. Do not add in-app links, unverified bot websites, or private upload URLs.",
- "updated": "17 Nov 2026",
+ "updated": "18 Nov 2026",
  "tools": [
   {
    "section": "New products",
@@ -93,6 +93,18 @@
    "href": "https://piyaster11.github.io/malee-romania-importers/",
    "action": "Open Romania map",
    "source": "https://github.com/piyaster11/malee-romania-importers",
+   "sourceLabel": "GitHub source"
+  },
+  {
+   "section": "Operations / R&D",
+   "sectionTh": "ปฏิบัติการและวิจัยพัฒนา",
+   "kicker": "Prototype app",
+   "title": "CMG → R&D → Finance Workflow",
+   "th": "ระบบคำขอพัฒนาสินค้า OEM: CMG → R&D → บัญชีต้นทุน",
+   "desc": "Clickable prototype for coconut OEM requests: CMG template form, R&D formulation by material code, Finance-Factory costing, audit trail and notifications. Mock data only; includes a migration guide.",
+   "href": "https://piyaster11.github.io/malee-cmg-workflow/",
+   "action": "Open workflow app",
+   "source": "https://github.com/piyaster11/malee-cmg-workflow",
    "sourceLabel": "GitHub source"
   }
  ],
