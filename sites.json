@@ -11,6 +11,17 @@
   "pushed": ""
  },
  {
+  "repo": "malee-social-listening",
+  "url": "https://piyaster11.github.io/malee-social-listening/",
+  "title": "Malee Social Listening · การฟังเสียงโซเชียล",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Malee Social Listening Dashboard mock-up (public mentions, traceable sources)",
+  "thumb": "",
+  "pushed": "2026-11-19T04:50:56Z"
+ },
+ {
   "repo": "piyaster-market-dashboard",
   "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
   "title": "Piyaster 99/99 Market Update",
@@ -19,7 +30,84 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-18T04:29:31Z"
+  "pushed": "2026-11-19T03:37:16Z"
+ },
+ {
+  "repo": "nvda-erection-index",
+  "url": "https://piyaster11.github.io/nvda-erection-index/",
+  "title": "NVIDIA Erection Index",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "A joke Fear & Greed-style sentiment gauge for NVIDIA (NVDA) stock.",
+  "thumb": "",
+  "pushed": "2026-11-19T02:51:33Z"
+ },
+ {
+  "repo": "piyaster-flix",
+  "url": "https://piyaster11.github.io/piyaster-flix/",
+  "title": "Piyaster Flix",
+  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
+  "cat": "Fun",
+  "emoji": "⚽",
+  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
+  "thumb": "thumbs/piyaster-flix.jpg",
+  "pushed": "2026-11-19T02:35:44Z"
+ },
+ {
+  "repo": "thaicreditbrief",
+  "url": "https://piyaster11.github.io/thaicreditbrief/",
+  "title": "Thai Credit Brief · สรุปเครดิตไทย",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
+  "thumb": "",
+  "pushed": "2026-11-19T00:39:53Z"
+ },
+ {
+  "repo": "malee-cmg-workflow",
+  "url": "https://piyaster11.github.io/malee-cmg-workflow/",
+  "title": "Malee CMG → R&amp;D → Finance Workflow (prototype)",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Malee CMG → R&D → Finance workflow prototype (mock data only)",
+  "thumb": "",
+  "pushed": "2026-11-18T08:27:54Z"
+ },
+ {
+  "repo": "thaicreditradar",
+  "url": "https://piyaster11.github.io/thaicreditradar/",
+  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
+  "thumb": "",
+  "pushed": "2026-11-18T07:15:54Z"
+ },
+ {
+  "repo": "aicontainment",
+  "url": "https://piyaster11.github.io/aicontainment/",
+  "title": "CONTAINMENT — Is AI still in the box?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
+  "thumb": "",
+  "pushed": "2026-11-18T06:43:15Z"
+ },
+ {
+  "repo": "ww3watch",
+  "url": "https://piyaster11.github.io/ww3watch/",
+  "title": "MIDNIGHT HOUR — How close are we to World War III?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-18T05:36:32Z"
  },
  {
   "repo": "malee-commodity-watch",
@@ -33,39 +121,6 @@
   "pushed": "2026-11-18T03:40:03Z"
  },
  {
-  "repo": "nvda-erection-index",
-  "url": "https://piyaster11.github.io/nvda-erection-index/",
-  "title": "NVIDIA Erection Index",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "A joke Fear & Greed-style sentiment gauge for NVIDIA (NVDA) stock.",
-  "thumb": "",
-  "pushed": "2026-11-18T03:10:55Z"
- },
- {
-  "repo": "piyaster-flix",
-  "url": "https://piyaster11.github.io/piyaster-flix/",
-  "title": "Piyaster Flix",
-  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
-  "cat": "Fun",
-  "emoji": "⚽",
-  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
-  "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-18T00:58:57Z"
- },
- {
-  "repo": "thaicreditbrief",
-  "url": "https://piyaster11.github.io/thaicreditbrief/",
-  "title": "Thai Credit Brief · สรุปเครดิตไทย",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
-  "thumb": "",
-  "pushed": "2026-11-18T00:37:41Z"
- },
- {
   "repo": "malee-romania-importers",
   "url": "https://piyaster11.github.io/malee-romania-importers/",
   "title": "Romania Food Importers &amp; Distributors — Malee Group (mock-up)",
@@ -75,39 +130,6 @@
   "desc": "Malee Romania food importers & distributors: map and directory of FMCG, beverage and Asian/ethnic partners (public 2025 accounts)",
   "thumb": "",
   "pushed": "2026-11-17T08:23:58Z"
- },
- {
-  "repo": "thaicreditradar",
-  "url": "https://piyaster11.github.io/thaicreditradar/",
-  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
-  "thumb": "",
-  "pushed": "2026-11-17T07:47:50Z"
- },
- {
-  "repo": "aicontainment",
-  "url": "https://piyaster11.github.io/aicontainment/",
-  "title": "CONTAINMENT — Is AI still in the box?",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
-  "thumb": "",
-  "pushed": "2026-11-17T07:18:42Z"
- },
- {
-  "repo": "ww3watch",
-  "url": "https://piyaster11.github.io/ww3watch/",
-  "title": "MIDNIGHT HOUR — How close are we to World War III?",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "",
-  "thumb": "",
-  "pushed": "2026-11-17T06:08:15Z"
  },
  {
   "repo": "malee-tourist-insights",
