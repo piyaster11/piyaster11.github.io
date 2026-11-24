@@ -11,26 +11,37 @@
   "pushed": ""
  },
  {
-  "repo": "thailand-fake-products-2026",
-  "url": "https://piyaster11.github.io/thailand-fake-products-2026/",
-  "title": "สินค้าปลอม-อันตราย ที่ถูกจับในไทย ส.ค.–พ.ย. 2569 | Fake products busted in Thailand",
+  "repo": "nvda-erection-index",
+  "url": "https://piyaster11.github.io/nvda-erection-index/",
+  "title": "NVIDIA Erection Index",
   "th": "",
   "cat": "Other",
   "emoji": "🌐",
-  "desc": "",
+  "desc": "A joke Fear & Greed-style sentiment gauge for NVIDIA (NVDA) stock.",
   "thumb": "",
-  "pushed": "2026-11-23T03:17:46Z"
+  "pushed": "2026-11-24T05:37:36Z"
  },
  {
-  "repo": "piyaster-market-dashboard",
-  "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
-  "title": "Piyaster 99/99 Market Update",
+  "repo": "malee-npd-dashboard",
+  "url": "https://piyaster11.github.io/malee-npd-dashboard/",
+  "title": "Malee NPD Dashboard",
+  "th": "แดชบอร์ดสินค้าใหม่จากข้อมูลสาธารณะ",
+  "cat": "Business",
+  "emoji": "📦",
+  "desc": "Unofficial public-source new-product and market insights, with planning tools labeled as samples",
+  "thumb": "",
+  "pushed": "2026-11-24T04:04:16Z"
+ },
+ {
+  "repo": "malee-commodity-watch",
+  "url": "https://piyaster11.github.io/malee-commodity-watch/",
+  "title": "Commodity &amp; Price Watch — Malee Group (mock-up)",
   "th": "",
   "cat": "Other",
   "emoji": "🌐",
-  "desc": "",
+  "desc": "Malee Commodity & Price Watch: sugar, packaging, coconut, fruit and THB prices vs margin target (public sources, sample figures labelled)",
   "thumb": "",
-  "pushed": "2026-11-23T02:53:21Z"
+  "pushed": "2026-11-24T03:59:16Z"
  },
  {
   "repo": "piyaster-flix",
@@ -41,7 +52,18 @@
   "emoji": "⚽",
   "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
   "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-23T01:45:34Z"
+  "pushed": "2026-11-24T02:14:23Z"
+ },
+ {
+  "repo": "piyaster-market-dashboard",
+  "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
+  "title": "Piyaster 99/99 Market Update",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-24T00:59:23Z"
  },
  {
   "repo": "thaicreditbrief",
@@ -52,7 +74,40 @@
   "emoji": "🌐",
   "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
   "thumb": "",
-  "pushed": "2026-11-23T00:44:47Z"
+  "pushed": "2026-11-24T00:39:09Z"
+ },
+ {
+  "repo": "thailand-gas-station-site-finder",
+  "url": "https://piyaster11.github.io/thailand-gas-station-site-finder/",
+  "title": "Thailand Gas Station Site Finder",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Site-selection tool for land in Thailand suitable for a high-traffic gas/service station.",
+  "thumb": "",
+  "pushed": "2026-11-23T10:16:51Z"
+ },
+ {
+  "repo": "malee-cmg-workflow",
+  "url": "https://piyaster11.github.io/malee-cmg-workflow/",
+  "title": "Malee CMG → R&amp;D → Finance Workflow (prototype)",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Malee CMG → R&D → Finance workflow prototype (mock data only)",
+  "thumb": "",
+  "pushed": "2026-11-23T08:30:56Z"
+ },
+ {
+  "repo": "hr-screening-dashboard",
+  "url": "https://piyaster11.github.io/hr-screening-dashboard/",
+  "title": "Malee HR Screening — draft",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-23T08:11:43Z"
  },
  {
   "repo": "thaicreditradar",
@@ -63,7 +118,7 @@
   "emoji": "🌐",
   "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
   "thumb": "",
-  "pushed": "2026-11-22T06:36:03Z"
+  "pushed": "2026-11-23T07:25:32Z"
  },
  {
   "repo": "aicontainment",
@@ -74,7 +129,7 @@
   "emoji": "🌐",
   "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
   "thumb": "",
-  "pushed": "2026-11-22T05:54:50Z"
+  "pushed": "2026-11-23T06:44:28Z"
  },
  {
   "repo": "ww3watch",
@@ -85,18 +140,18 @@
   "emoji": "🌐",
   "desc": "",
   "thumb": "",
-  "pushed": "2026-11-22T04:41:05Z"
+  "pushed": "2026-11-23T05:18:21Z"
  },
  {
-  "repo": "nvda-erection-index",
-  "url": "https://piyaster11.github.io/nvda-erection-index/",
-  "title": "NVIDIA Erection Index",
+  "repo": "thailand-fake-products-2026",
+  "url": "https://piyaster11.github.io/thailand-fake-products-2026/",
+  "title": "สินค้าปลอม-อันตราย ที่ถูกจับในไทย ส.ค.–พ.ย. 2569 | Fake products busted in Thailand",
   "th": "",
   "cat": "Other",
   "emoji": "🌐",
-  "desc": "A joke Fear & Greed-style sentiment gauge for NVIDIA (NVDA) stock.",
+  "desc": "",
   "thumb": "",
-  "pushed": "2026-11-21T02:52:39Z"
+  "pushed": "2026-11-23T03:17:46Z"
  },
  {
   "repo": "ship-tracker",
@@ -121,28 +176,6 @@
   "pushed": "2026-11-19T07:34:56Z"
  },
  {
-  "repo": "malee-cmg-workflow",
-  "url": "https://piyaster11.github.io/malee-cmg-workflow/",
-  "title": "Malee CMG → R&amp;D → Finance Workflow (prototype)",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Malee CMG → R&D → Finance workflow prototype (mock data only)",
-  "thumb": "",
-  "pushed": "2026-11-18T08:27:54Z"
- },
- {
-  "repo": "malee-commodity-watch",
-  "url": "https://piyaster11.github.io/malee-commodity-watch/",
-  "title": "Commodity &amp; Price Watch — Malee Group (mock-up)",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Malee Commodity & Price Watch: sugar, packaging, coconut, fruit and THB prices vs margin target (public sources, sample figures labelled)",
-  "thumb": "",
-  "pushed": "2026-11-18T03:40:03Z"
- },
- {
   "repo": "malee-romania-importers",
   "url": "https://piyaster11.github.io/malee-romania-importers/",
   "title": "Romania Food Importers &amp; Distributors — Malee Group (mock-up)",
@@ -163,28 +196,6 @@
   "desc": "Russian & Indian Tourist Insights: Thailand — public arrivals, search interest and trip insights (sample and draft items labelled)",
   "thumb": "",
   "pushed": "2026-11-17T05:03:45Z"
- },
- {
-  "repo": "malee-npd-dashboard",
-  "url": "https://piyaster11.github.io/malee-npd-dashboard/",
-  "title": "Malee NPD Dashboard",
-  "th": "แดชบอร์ดสินค้าใหม่จากข้อมูลสาธารณะ",
-  "cat": "Business",
-  "emoji": "📦",
-  "desc": "Unofficial public-source new-product and market insights, with planning tools labeled as samples",
-  "thumb": "",
-  "pushed": "2026-11-17T04:10:59Z"
- },
- {
-  "repo": "thailand-gas-station-site-finder",
-  "url": "https://piyaster11.github.io/thailand-gas-station-site-finder/",
-  "title": "Thailand Gas Station Site Finder",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Site-selection tool for land in Thailand suitable for a high-traffic gas/service station.",
-  "thumb": "",
-  "pushed": "2026-11-16T09:03:06Z"
  },
  {
   "repo": "tcg-pulse",
