@@ -11,6 +11,17 @@
   "pushed": ""
  },
  {
+  "repo": "piyaster-market-dashboard",
+  "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
+  "title": "Piyaster 99/99 Market Update",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-25T04:55:55Z"
+ },
+ {
   "repo": "nvda-erection-index",
   "url": "https://piyaster11.github.io/nvda-erection-index/",
   "title": "NVIDIA Erection Index",
@@ -19,7 +30,73 @@
   "emoji": "🌐",
   "desc": "A joke Fear & Greed-style sentiment gauge for NVIDIA (NVDA) stock.",
   "thumb": "",
-  "pushed": "2026-11-24T05:37:36Z"
+  "pushed": "2026-11-25T04:38:33Z"
+ },
+ {
+  "repo": "malee-commodity-watch",
+  "url": "https://piyaster11.github.io/malee-commodity-watch/",
+  "title": "Commodity &amp; Price Watch — Malee Group (mock-up)",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Malee Commodity & Price Watch: sugar, packaging, coconut, fruit and THB prices vs margin target (public sources, sample figures labelled)",
+  "thumb": "",
+  "pushed": "2026-11-25T02:56:49Z"
+ },
+ {
+  "repo": "thaicreditbrief",
+  "url": "https://piyaster11.github.io/thaicreditbrief/",
+  "title": "Thai Credit Brief · สรุปเครดิตไทย",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
+  "thumb": "",
+  "pushed": "2026-11-25T00:41:32Z"
+ },
+ {
+  "repo": "piyaster-flix",
+  "url": "https://piyaster11.github.io/piyaster-flix/",
+  "title": "Piyaster Flix",
+  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
+  "cat": "Fun",
+  "emoji": "⚽",
+  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
+  "thumb": "thumbs/piyaster-flix.jpg",
+  "pushed": "2026-11-24T23:55:17Z"
+ },
+ {
+  "repo": "thaicreditradar",
+  "url": "https://piyaster11.github.io/thaicreditradar/",
+  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
+  "thumb": "",
+  "pushed": "2026-11-24T09:45:47Z"
+ },
+ {
+  "repo": "aicontainment",
+  "url": "https://piyaster11.github.io/aicontainment/",
+  "title": "CONTAINMENT — Is AI still in the box?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
+  "thumb": "",
+  "pushed": "2026-11-24T09:12:34Z"
+ },
+ {
+  "repo": "ww3watch",
+  "url": "https://piyaster11.github.io/ww3watch/",
+  "title": "MIDNIGHT HOUR — How close are we to World War III?",
+  "th": "",
+  "cat": "Other",
+  "emoji": "🌐",
+  "desc": "",
+  "thumb": "",
+  "pushed": "2026-11-24T07:59:12Z"
  },
  {
   "repo": "malee-npd-dashboard",
@@ -31,50 +108,6 @@
   "desc": "Unofficial public-source new-product and market insights, with planning tools labeled as samples",
   "thumb": "",
   "pushed": "2026-11-24T04:04:16Z"
- },
- {
-  "repo": "malee-commodity-watch",
-  "url": "https://piyaster11.github.io/malee-commodity-watch/",
-  "title": "Commodity &amp; Price Watch — Malee Group (mock-up)",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Malee Commodity & Price Watch: sugar, packaging, coconut, fruit and THB prices vs margin target (public sources, sample figures labelled)",
-  "thumb": "",
-  "pushed": "2026-11-24T03:59:16Z"
- },
- {
-  "repo": "piyaster-flix",
-  "url": "https://piyaster11.github.io/piyaster-flix/",
-  "title": "Piyaster Flix",
-  "th": "ไฮไลต์กีฬา เกม เพลง ญี่ปุ่น หนังสือ คูปอง มีม",
-  "cat": "Fun",
-  "emoji": "⚽",
-  "desc": "Free official sports, gaming & music videos, Japanese phrases, books, daily deals and memes, Netflix style",
-  "thumb": "thumbs/piyaster-flix.jpg",
-  "pushed": "2026-11-24T02:14:23Z"
- },
- {
-  "repo": "piyaster-market-dashboard",
-  "url": "https://piyaster11.github.io/piyaster-market-dashboard/",
-  "title": "Piyaster 99/99 Market Update",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "",
-  "thumb": "",
-  "pushed": "2026-11-24T00:59:23Z"
- },
- {
-  "repo": "thaicreditbrief",
-  "url": "https://piyaster11.github.io/thaicreditbrief/",
-  "title": "Thai Credit Brief · สรุปเครดิตไทย",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Thai Credit Brief: Grok Bot routine results for Thai corporate credit (public data, training)",
-  "thumb": "",
-  "pushed": "2026-11-24T00:39:09Z"
  },
  {
   "repo": "thailand-gas-station-site-finder",
@@ -108,39 +141,6 @@
   "desc": "",
   "thumb": "",
   "pushed": "2026-11-23T08:11:43Z"
- },
- {
-  "repo": "thaicreditradar",
-  "url": "https://piyaster11.github.io/thaicreditradar/",
-  "title": "Credit Radar · Thailand's Early-Warning Dashboard · แดชบอร์ดเตือนภัยสินเชื่อ",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "Google Trends dashboard for Thai corporate credit analysts (TH/EN). Unofficial, for training.",
-  "thumb": "",
-  "pushed": "2026-11-23T07:25:32Z"
- },
- {
-  "repo": "aicontainment",
-  "url": "https://piyaster11.github.io/aicontainment/",
-  "title": "CONTAINMENT — Is AI still in the box?",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "CONTAINMENT — Is AI still in the box? (Piyaster 99/99)",
-  "thumb": "",
-  "pushed": "2026-11-23T06:44:28Z"
- },
- {
-  "repo": "ww3watch",
-  "url": "https://piyaster11.github.io/ww3watch/",
-  "title": "MIDNIGHT HOUR — How close are we to World War III?",
-  "th": "",
-  "cat": "Other",
-  "emoji": "🌐",
-  "desc": "",
-  "thumb": "",
-  "pushed": "2026-11-23T05:18:21Z"
  },
  {
   "repo": "thailand-fake-products-2026",
